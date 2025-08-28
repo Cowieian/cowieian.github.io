@@ -1,0 +1,19 @@
+  {
+  "products": [
+    { "id": 1, "name": "Laptop", "price": 1200 },
+    { "id": 2, "name": "Phone", "price": 800 },
+    { "id": 3, "name": "Tablet", "price": 500 },
+    { "id": 4, "name": "Monitor", "price": 300 },
+    { "id": 5, "name": "Keyboard", "price": 50 },
+    { "id": 6, "name": "Mouse", "price": 40 },
+    { "id": 7, "name": "Headphones", "price": 100 },
+    { "id": 8, "name": "Speaker", "price": 150 },
+    { "id": 9, "name": "Smartwatch", "price": 200 },
+    { "id": 10, "name": "Camera", "price": 700 },
+    { "id": 11, "name": "Printer", "price": 250 },
+    { "id": 12, "name": "Router", "price": 90 },
+    { "id": 13, "name": "SSD", "price": 180 },
+    { "id": 14, "name": "Hard Drive", "price": 120 },
+    { "id": 15, "name": "Graphics Card", "price": 500 }
+  ]
+}
